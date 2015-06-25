@@ -1,0 +1,5 @@
+#ifndef LAMBDAS_AND_CONTAINERS_H
+#define LAMBDAS_AND_CONTAINERS_H
+
+int LambdasAndContainers();
+#endif // LAMBDAS_AND_CONTAINERS_H
