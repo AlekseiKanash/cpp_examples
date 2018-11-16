@@ -3,6 +3,8 @@
 #include <iostream>
 #include <functional>
 #include <vector>
+#include <memory>
+#include <algorithm>
 
 int functionForBindTest(int a, int b, int c)
 {
